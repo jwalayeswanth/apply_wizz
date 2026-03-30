@@ -60,8 +60,3 @@ After it finishes, check:
 - Add Microsoft Teams delivery via webhook or Graph API.
 - Export PDFs (e.g., `docx2pdf`) in addition to Word.
 - Improve resume extraction formatting (better handling of multi-column resumes / complex tables).
-
-## Demo video
-Add your unlisted link here:
-- `VIDEO_URL_HERE`
-
