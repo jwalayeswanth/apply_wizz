@@ -55,8 +55,3 @@ After it finishes, check:
 - `candidate_resume.docx` is the base resume used for all roles.
 - The Excel column headers match the spec exactly (`#`, `Job Title`, `Company`, `URL`, `Resume Path`).
 - SMTP credentials are available if you want real emails; otherwise set `DRY_RUN=true`.
-
-## Improvements (if I had more time)
-- Add Microsoft Teams delivery via webhook or Graph API.
-- Export PDFs (e.g., `docx2pdf`) in addition to Word.
-- Improve resume extraction formatting (better handling of multi-column resumes / complex tables).
